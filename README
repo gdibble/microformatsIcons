@@ -1,38 +1,50 @@
-(C) 2011 Gabriel Dibble <gdibble@gmail.com> - (CC) BY-SA (2.5)              READMEv2
-====================================================================================
-https://github.com/gdibble/microformatsIcons is a free software project by Ripple FX
-(also known as RippleFxInc.com >>> http://microformats.org/wiki/User:Gdibble)
+(C) 2011 Gabriel Dibble <gdibble@gmail.com> - (CC) BY-SA (2.5)     | READMEv3
+=============================================================================
+https://github.com/gdibble/microformatsIcons is a free software project by
+Ripple FX (RippleFxInc.com >>> http://microformats.org/wiki/User:Gdibble)
 
-  The graphics (images) uploaded herein have been released for public general use
-  under a Creative Commons Attribution-Share Alike 2.5 License in accordance with
-  http://microformats.org/wiki/icons/ where these graphics are featured.
+  The image(s) uploaded herein have been released for public general use
+  under a Creative Commons Attribution-Share Alike 2.5 License in like
+  accordance with http://microformats.org/wiki/icons/ where featured.
 
-The purpose of these icons are to facilitate the adoption and usage of microformat 
-standards as a dual-purpose vCard download-link and hCard-indicator.
 
-Many microformat indicator graphics (icons, buttons, etc) are optimized to boldly 
-stand out and command-attention. Sometimes a "more elegant" approach is needed:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  Good Usablity will facilitate the adoption & usage of microformat online!
 
-Ex.1
+
+Such is the purpose of these icons which represent:
+  (1) vCard download-link - visually representation of a 'contact'
+  (2) indicate the presence of hCard(s).
+
+This icon provides visual interest and the hint of 'contact', wrapped by a
+link it tells us it 'goes somewhere' and the title attribute explains 'this
+is a download' and 'hCard data is available' if desired.
+
+Many microformat indicator icons and buttons are visually optimized to boldly
+stand out & command-attention. Sometimes a "more elegant" approach is needed:
+
 ----
-"vCard.xsm.png" is intended to integrate cleanly and easily into a website
-footer or anywhere within in-line text. As a usage example, replace Name:
+Ex.1  ~  Replace Name in this usage example:
+----
 
-HTML:
+  "vCard.xsm.png" is intended to integrate cleanly & easily
+  into a website footer or anywhere within in-line text:
+
+  HTML:
 <a href="/Name.vcf" rel="external nofollow noindex" title="We look forward to hearing from you: Click to Download the Name vCard for your Address Book!   (This page also integrates an hCard to make connecting easier.)"><img class="vCard" src="/img/vCard.xsm.png" alt="vCard" /></a>
 
-CSS: (as needed)
-"IMG.vCard {position:relative; top:1px;}
+  CSS: (as needed)
+IMG.vCard {position:relative; top:1px;}
 
 
-----
 
+.:.
 
-  For examples and help with hCards, please check 
-  http://blog.RippleFxInc.com/tags/microformats/
-  & of course http://Microformats.org/wiki/hCard
+ For examples and help with hCards, please check 
+   http://blog.RippleFxInc.com/tags/microformats/
+     & of course http://Microformats.org/wiki/hCard
 
-  For assistance or questions, feel free to contact me
+       For assistance or questions,
+         feel free to contact me
 
-
-<3 Thank you for supporting the Free Software Movement <3
+	    Thanks for supporting <3 free software <3
